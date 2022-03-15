@@ -3,3 +3,9 @@ This is my second line
 Sdgsdgs
 
 Sss
+<<<<<<< Updated upstream
+=======
+
+
+Gig
+>>>>>>> Stashed changes
